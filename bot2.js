@@ -10,7 +10,7 @@ console.log("Welcome Again !");
 Hello 
 Pls Join And Don't Leave
 If you want money from inviting ppls join this discord
-                               [ https://discord.gg/yeXyTT4 ] 
+                               [ https://discord.gg/wFGCe7P ] 
 Invite Privte For You ... [ ${member}  ]
 **`) 
 }).catch(console.error)
@@ -34,7 +34,7 @@ client.on("guildMemberAdd", member => {
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/yeXyTT4
+https://discord.gg/wFGCe7P
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
