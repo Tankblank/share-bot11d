@@ -10,7 +10,7 @@ console.log("Welcome Again !");
 Hello 
 Pls Join And Don't Leave
 If you want money from inviting ppls join this discord
-                               [ https://discord.gg/wFGCe7P ] 
+                               [ https://discord.gg/fmwNTm ] 
 Invite Privte For You ... [ ${member}  ]
 **`) 
 }).catch(console.error)
@@ -24,7 +24,7 @@ client.on("guildMemberAdd", member => {
 Hello 
 Pls Join And Don't Leave
 If you want money from inviting ppls join this discord
-                               [ https://discord.gg/wFGCe7P ] 
+                               [ https://discord.gg/fmwNTm ] 
 Invite Privte For You ... [ ${member}  ]
 **`)  
 }).catch(console.error)
