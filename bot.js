@@ -13,7 +13,7 @@ const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = '#';
 
 client.on('message', message => {
-    if (message.content.startsWith("^avatar")) {
+    if (message.content.startsWith("+avatar")) {
         var mentionned = message.mentions.users.first();
     var x5bzm;
       if(mentionned){
